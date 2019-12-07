@@ -1,4 +1,4 @@
-Player,Age,Year,playerID,MLS,QO,acceptQO,Salary,leng,catcher,cornerIF,MIF,OF,DHonly,G,PA,wRC+,wSB,BsR,Off,Def,FRM,WAR,Dol,QOAmount,SalaryOverQO
+Player,Age,Year,playerID,MLS,QO,acceptQO,Salary,leng,catcher,cornerIF,MIF,OF,DHonly,G,PA,wRCplus,wSB,BsR,Off,Def,FRM,WAR,Dol,QOAmount,SalaryOverQO
 A.J. Pierzynski,35,2012,746,12.1,0,0,6000000,1,1,0,0,0,0,135,520,119,-0.5,-1.9,9.5,4.2,-2.5,3.3,21.3,13300000,0
 Adam LaRoche,32,2012,1904,9,1,0,8000000,1,0,1,0,0,0,154,647,127,-0.9,-1.5,19,-6.3,NA,3.4,22,13300000,0
 Alex Gonzalez,35,2012,520,14.034,0,0,3500000,1,0,0,1,0,0,24,89,111,-0.3,-0.3,0.8,-0.7,NA,0.3,1.9,13300000,0
