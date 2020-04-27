@@ -1,4 +1,6 @@
 # Should I Stay or Should I Go: Modeling Who Will Receive a Qualifying Offer in Major League Baseball
-The cleaned data, code, and methodology for building my QO classifiers are contained within this folder.
 
-If you would like the raw data, or further explanation as to why I made certain methodological choices, please email me at shawnbrody9@gmail.com
+<b>Abstract:</b> In Major League Baseball (MLB), players are eligible for free agency (FA) if they have accrued six or more years of MLB service time. As a way for small-market teams to remain competitive with large-market teams, MLB introduced the Qualifying Offer (QO) in 2012. QOs are a one-year contract offer whose worth is determined by averaging the salaries of the top-125 highest-paid players each year. If a player accepts a QO, they accept this one-year contract. If a player rejects a QO, they become a free agent. QOs allow a team to receive some type of compensation (better draft picks, more money to spend on international amateurs) when their best players sign with a different team and force a signing-team to give up more than just money for signing a player. To avoid paying a player an above-market contract, teams must also be careful about who they extend QO’s to. For players, entering FA with a QO attachment can lower their market value. Using different classification methods (Random Forest, Logistic Regression, etc.), we aim to build a classifier on whether eligible players will receive a qualifying offer.
+
+
+The cleaned data, code, and methodology for building my QO classifiers are contained within this folder. If you would like the raw data, or further explanation as to why I made certain methodological choices, please email me at shawnbrody9@gmail.com
